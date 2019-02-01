@@ -1,6 +1,6 @@
 # 效果
 
-![](http://xiejun-image.oss-cn-hangzhou.aliyuncs.com/hexo/%E5%BC%B9%E5%B9%95.gif)
+![](http://xiejun-image.oss-cn-hangzhou.aliyuncs.com/hexo/%E5%BC%B9%E5%B9%95.png)
 
 
 弹幕说明
